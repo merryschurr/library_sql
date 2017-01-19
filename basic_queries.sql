@@ -57,3 +57,4 @@
 
 
 -- Delete your author entry
+-- DELETE FROM authors where name='Merry Schurrs';
